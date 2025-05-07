@@ -15,7 +15,7 @@ Voici mes derniers articles :
   {% endfor %}
 </ul>
 
-[Lire mon premier article](./_posts/2025-05-07-Premier-post.md)
+[Lire mon premier article](./_posts/2025-05-07-Premier-Post.md)
 
 
 [Link to another page](./another-page.html).
