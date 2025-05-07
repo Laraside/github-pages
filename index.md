@@ -8,7 +8,7 @@ title: Accueil
 Voici mes derniers articles :
 
 <ul>
-  {% for post in site.post %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d/%m/%Y" }}
     </li>
