@@ -4,3 +4,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
 baseurl: "/github-pages"
+permalink: /:year/:month/:day/:title.html
