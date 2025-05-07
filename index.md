@@ -1,5 +1,5 @@
----
+
 <div style="text-align: center;">
-    Laraside's Blog
+    <h1>Laraside's Blog<h1>
 </div>
----
+
